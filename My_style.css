@@ -1,0 +1,56 @@
+
+h3{
+  border-style:none;
+  margin:0.5em;
+  padding: 0.5em;
+
+}
+
+.box-1{
+  width:320px;
+  border:2px solid green;
+  border-style:outset;
+  background-color: lightgreen;
+  margin:0.5em;
+  padding:0.5em;
+}
+
+img{
+
+  width:300px;
+  border: 1px solid green;
+  margin:0.5em;
+}
+#box-2{
+
+width: 285px;
+border:1px solid green;
+margin: 0.5em;
+padding: 0.5em;
+
+}
+
+.p1{
+
+  font-style: italic;
+  color: blue;
+}
+
+.p2{
+
+    font-style: none;
+    color:darkblue;
+
+  }
+
+    ul{
+      color:brown;
+      list-style: none;
+      padding-left: 0pt;
+
+    }
+
+    li span{
+
+      font-weight: bold;
+    }
